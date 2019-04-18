@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.17)  18 APR 2019 07:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.17)  18 APR 2019 07:54
 entering extended mode
 **./nikhil_Resume.tex
 (nikhil_Resume.tex
@@ -1057,7 +1057,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 38.
 \makecvheadpicturebox=\box62
-<nikhil_picture.jpeg, id=54, 966.61125pt x 1284.8pt>
+<nikhil_picture.jpeg, id=58, 966.61125pt x 1284.8pt>
 File: nikhil_picture.jpeg Graphic file (type jpg)
 <use nikhil_picture.jpeg>
 Package pdftex.def Info: nikhil_picture.jpeg  used on input line 38.
@@ -1174,11 +1174,11 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
  (nikhil_Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
 
 
 Package rerunfilecheck Warning: File `nikhil_Resume.out' has changed.
@@ -1186,18 +1186,18 @@ Package rerunfilecheck Warning: File `nikhil_Resume.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `nikhil_Resume.out':
-(rerunfilecheck)             Before: E74F0B97861D5B8FF366DB8AB2CA3AB7;1514
-(rerunfilecheck)             After:  063CA84617D243FCB05A5B9771057911;1615.
+(rerunfilecheck)             Before: 063CA84617D243FCB05A5B9771057911;1615
+(rerunfilecheck)             After:  60EB325FCF628CF1B6BAACA7F2B7ECAD;1681.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 55 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31185 strings out of 492945
- 583592 string characters out of 3125808
+ 31187 strings out of 492945
+ 583616 string characters out of 3125808
  729636 words of memory out of 3000000
- 34637 multiletter control sequences out of 15000+200000
+ 34638 multiletter control sequences out of 15000+200000
  570701 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,65p,781b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1208,9 +1208,9 @@ type1/public/lm/lmss17.pfb><C:/Users/Goenka/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/lm/lmssbx10.pfb><C:/Users/Goenka/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Users/Goenka/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on nikhil_Resume.pdf (3 pages, 189926 bytes).
+Output written on nikhil_Resume.pdf (3 pages, 190348 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 15474 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 15482 words of extra memory for PDF output out of 17280 (max. 10000000)
 
